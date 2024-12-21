@@ -52,9 +52,9 @@ BFVQS/
 │   │   └── csv/
 │   └── convert.py
 │
-└── BFVQS.py
+├── BFVQS.py
 │
-└── README.md
+├── README.md
 │
 └── LICENSE
 ```
