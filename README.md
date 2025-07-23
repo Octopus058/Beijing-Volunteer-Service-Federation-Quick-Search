@@ -28,8 +28,6 @@ Technology has changed everyone's life greatly.
 | `result.txt`  | 没找到的人，写入 `data/data.txt`  |
 | `result.xlsx` | 没找到的人，写入 `data/data.xlsx` |
 
-最后，每隔一段时间去微信群发 `data/data.txt` 和对应项目的二维码（注明项目名称），去企业微信补充 `data/data.xlsx`
-
 ## 结构
 
 ```
